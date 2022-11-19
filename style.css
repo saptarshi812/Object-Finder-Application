@@ -1,0 +1,13 @@
+#instruction{
+    color:black;
+    
+}
+#heading{
+    font-size:23px;
+    width:100%;
+}
+canvas{
+    background-color:orangered;
+    box-shadow:5px;
+    margin-top:120px;
+}
